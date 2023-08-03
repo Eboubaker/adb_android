@@ -8,7 +8,7 @@ adb devices
 ```
 adb shell
 ```
-##### To add "LTE only" network mode in the phone settings: in the shell run:
+##### To add "LTE(4G) only" network mode in the phone settings: in the shell run:
 ```
 settings put system hw_networkmode_preference 11
 ```
